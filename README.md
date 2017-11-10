@@ -1,5 +1,7 @@
 # jquery-training-person-view
 
+https://mustafaertekin.github.io/jquery-training-person-view/
+
 Enter the following JSON-Text into the textarea. The will be parsed and converted to a JS-Object and then some details will be displayed.
 -------------------------
 
